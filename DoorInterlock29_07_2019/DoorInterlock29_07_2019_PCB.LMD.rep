@@ -1,0 +1,80 @@
+InsulateBottom__Bigger
+---------------------------------------------------------------------------------------------------
+Layer = InsulateTop, Phase = MillingTop
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 57
+	Perimeter [mm]	= 388
+	Moves [mm]	= 433
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+1	0	100	1484	    1168		510		 "Universal Cutter 0.2 mm (8 mil)"
+10	0	233	2606	    17953		3262		 "End Mill 1.0 mm (39 mil)"
+---------------------------------------------------------------------------------------------------
+Layer = InsulateBottom, Phase = MillingBottom
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 4
+	Perimeter [mm]	= 57
+	Moves [mm]	= 51
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+1	0	397	19396	    10736		1193		 "Universal Cutter 0.2 mm (8 mil)"
+10	0	64	2553	    4244		603		 "End Mill 1.0 mm (39 mil)"
+---------------------------------------------------------------------------------------------------
+Layer = DrillPlated, Phase = DrillingPlated
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 0
+	Perimeter [mm]	= 0
+	Moves [mm]	= 0
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+3	4	0	0	    0		183		 "Spiral Drill 0.4 mm"
+7	62	0	0	    0		410		 "Spiral Drill 0.8 mm"
+8	6	0	0	    0		71		 "Spiral Drill 0.9 mm"
+9	9	0	0	    0		124		 "Spiral Drill 1.0 mm"
+10	4	0	0	    0		60		 "Spiral Drill 1.1 mm"
+11	12	0	0	    0		126		 "Spiral Drill 1.2 mm"
+14	10	0	0	    0		279		 "Spiral Drill 1.5 mm"
+24	0	4	16	    34		407		 "Contour Router 2.0 mm (79 mil)"
+---------------------------------------------------------------------------------------------------
+Layer = DrillUnplated, Phase = DrillingUnplated
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 0
+	Perimeter [mm]	= 0
+	Moves [mm]	= 0
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+3	4	0	0	    0		183		 "Spiral Drill 0.4 mm"
+7	62	0	0	    0		410		 "Spiral Drill 0.8 mm"
+8	6	0	0	    0		71		 "Spiral Drill 0.9 mm"
+9	9	0	0	    0		124		 "Spiral Drill 1.0 mm"
+10	4	0	0	    0		60		 "Spiral Drill 1.1 mm"
+11	12	0	0	    0		126		 "Spiral Drill 1.2 mm"
+14	10	0	0	    0		279		 "Spiral Drill 1.5 mm"
+24	0	4	16	    34		407		 "Contour Router 2.0 mm (79 mil)"
+---------------------------------------------------------------------------------------------------
+Layer = CuttingOutside, Phase = CuttingOutside
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 0
+	Perimeter [mm]	= 0
+	Moves [mm]	= 0
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+3	0	2	28	    451		185		 "Contour Router 2.0 mm (79 mil)"
+---------------------------------------------------------------------------------------------------
+Layer = DrillPlated, Phase = MarkingDrills
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 0
+	Perimeter [mm]	= 0
+	Moves [mm]	= 0
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+1	111	0	0	    0		981		 "Universal Cutter 0.2 mm marking"
+---------------------------------------------------------------------------------------------------
+Layer = DrillUnplated, Phase = MarkingDrills
+Directly realized objects: Closed Shapes, Rectangles, Circles (no usage of any tool)
+No. of objects 0
+	Perimeter [mm]	= 0
+	Moves [mm]	= 0
+Tool usage:
+No.	Flashes	Paths	Segments	Length [mm]	Moves [mm]	Tool/Aperture
+1	111	0	0	    0		981		 "Universal Cutter 0.2 mm marking"
